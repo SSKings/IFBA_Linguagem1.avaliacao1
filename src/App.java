@@ -26,7 +26,7 @@ public class App {
               System.out.println("Valor do Ingresso: "+(valorIngresso/2));
             else
               System.out.println("Valor do Ingresso: "+valorIngresso);
-            System.out.println("Meia Entrada: "+i1.getMeiaEntrada());
+         git branch -M main   System.out.println("Meia Entrada: "+i1.getMeiaEntrada());
             System.out.println("Numero da Sala: "+i1.getSessao().getSala().getNumero());
             System.out.println("Código do Assento: "+i1.getAssento().getCodigo());
         
