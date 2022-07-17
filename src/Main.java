@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.LocalTime;
 
-public class App {
+public class Main {
     public static void main(String[] args) throws Exception {
         
             Ator a1 = new Ator("Fulana");
